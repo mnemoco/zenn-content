@@ -1,3 +1,9 @@
-# Zenn CLI
+# zenn-content
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+Zennで公開する記事・本を管理するリポジトリです。（このリポジトリは Zenn CLI 用の構成になっています）
+
+## 🐚 Bash / Linuxシェル（Shell）
+
+| タイトル | 公開日 | リンク |
+|----------|--------|--------|
+|RHEL9でタブ補完が効かないときの解決方法|2025/08/20||
