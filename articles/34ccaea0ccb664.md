@@ -1,5 +1,5 @@
 ---
-title: "「自宅サーバーでサクッとDokuWikiを立ち上げる方法（RHEL9編）"
+title: "自宅サーバーでサクッとDokuWikiを立ち上げる方法（RHEL9編）"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Linux", "RHEL", "RHEL9", "Wiki"]
@@ -7,7 +7,7 @@ published: true
 published_at: 2025-08-21 00:00
 ---
 
-# 「自宅サーバーでサクッとDokuWikiを立ち上げる方法（RHEL9編）
+# 自宅サーバーでサクッとDokuWikiを立ち上げる方法（RHEL9編）
 
 ## 1. はじめに
 
